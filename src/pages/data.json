@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Common Cold",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "glucose", "stabiliser", "preservative", "invert sugar"]
+  },
+  {
+    "name": "Acute bronchitis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "nut", "iodised salt", "cocoa", "glucose", "chili pepper"]
+  },
+  {
+    "name": "Urinary tract infections (UTIs)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "cocoa", "glucose", "chili pepper", "stabiliser", "raising agent", "onion"]
+  },
+  {
+    "name": "Gastroenteritis (stomach flu)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut", "iodised salt", "cocoa", "glucose", "chili pepper", "stabiliser", "herb", "raising agent", "onion", "garlic", "starch", "preservative", "plant", "antioxidant", "minerals", "maltodextrind", "cocoa solids", "pepper", "carbonated water","caffeine"]
+  },
+  {
+    "name": "Sinusitis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut", "iodised salt", "cocoa", "glucose", "chili pepper", "stabiliser", "herb", "raising agent","caffeine"]
+  },
+  {
+    "name": "Pharyngitis (sore throat)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "water", "milk solids", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "chili pepper", "stabiliser", "raising agent", "onion", "garlic", "starch", "preservative", "antioxidant"]
+  },
+  
+  {
+    "name": "Migraine",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "dairy", "wheat", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "refined wheat flour", "cocoa", "glucose", "chili pepper", "stabiliser", "raising agent", "onion", "garlic", "preservative"]
+  },
+  {
+    "name": "Asthma",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut", "iodised salt","wheat","eggs","dairy"]
+  },
+  {
+    "name": "Chronic sinusitis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "refined wheat flour", "iodised salt", "glucose", "chili pepper", "stabiliser", "herb","caffeine"]
+  },
+  {
+    "name": "Chronic obstructive pulmonary disease (COPD)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "vegetable", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "refined wheat flour", "iodised salt", "glucose", "stabiliser", "preservative", "antioxidant", "caffeine"]
+  },
+  {
+    "name": "Eczema",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut", "iodised salt", "cocoa", "glucose", "chili pepper"]
+  },
+  {
+    "name": "Psoriasis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "dairy", "wheat", "flour", "milk", "vegetable", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "cocoa", "glucose", "chili pepper", "stabiliser", "herb", "raising agent"]
+  },
+  {
+    "name": "Rheumatoid arthritis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "vegetable", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut"]
+  },
+  {
+    "name": "Osteoarthritis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "iodised salt", "glucose", "chili pepper"]
+  },
+  {
+    "name": "Fibromyalgia",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "glucose", "chili pepper", "stabiliser", "raising agent"]
+  }
+,{
+    "name": "Type 2 Diabetes",
+    "i": ["added sugar", "disaccharide", "sugar", "cereal", "flour", "wheat", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "milk solids", "emulsifier", "fruit", "palm oil and fat", "palm oil", "refined wheat flour", "cocoa", "glucose", "stabiliser", "raising agent", "starch", "preservative", "maltodextrind", "cocoa solids", "sugar syrup", "flavour enhancer", "refined palm oil"]
+  },
+  {
+    "name": "Chronic fatigue syndrome",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "refined wheat flour", "nut", "iodised salt", "cocoa", "glucose"]
+  },
+  {
+    "name": "Irritable bowel syndrome (IBS)",
+    "i": ["wheat", "barley", "rye", "onion", "garlic", "legumes", "lentils", "beans", "chickpeas", "dairy products", "apples", "pears", "mangoes", "peaches", "watermelon", "cauliflower", "mushrooms", "sugar alcohols", "artificial sweeteners", "high fructose corn syrup", "honey", "agave nectar", "molasses", "corn syrup", "sugar"]
+  },
+  {
+    "name": "Diverticulitis",
+    "i": ["spice", "nuts", "seeds", "legumes", "corn", "popcorn", "berries", "coconut", "onion", "garlic", "leeks", "chives", "broccoli", "cauliflower", "cabbage", "brussels sprouts", "peas", "cucumber", "radishes", "lettuce", "spinach", "tomatoes", "zucchini", "green beans", "bell peppers", "celery", "carrots", "dried fruit", "fried foods"]
+  },
+  {
+    "name": "Crohn's disease",
+    "i": ["wheat", "flour", "dairy", "milk", "vegetable oil and fat", "palm oil and fat", "palm oil", "refined wheat flour", "milk solids", "vegetable oil", "fruit", "legume", "soya", "corn", "protein", "yeast", "gluten", "refined palm oil", "almond", "oat", "cheese", "coconut", "sesame", "milk powder", "whey", "wholemeal flour", "animal protein", "cream", "chicken", "condensed milk", "egg"]
+  },
+  {
+    "name": "Ulcerative colitis",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "glucose", "chili pepper", "stabiliser", "raising agent", "onion"]
+  },
+  {
+    "name": "Gastroesophageal reflux disease (GERD)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "cocoa", "glucose", "chili pepper", "stabiliser", "herb", "raising agent","carbonated water"]
+  },
+  { "name":  "Hypertension (high blood pressure)",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "vegetable", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut","oil"]
+  },
+  { "name": "Coronary artery disease",
+    "i": ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "monosaccharide", "palm oil and fat", "palm oil", "refined wheat flour", "iodised salt", "cocoa", "glucose", "chili pepper", "stabiliser", "herb"]
+  },
+  { "name" : "Depression",
+    "i": ["added sugar", "refined wheat flour", "trans fats", "processed foods", "highly processed vegetable oils", "alcohol", "artificial sweeteners", "excessive caffeine", "high-fat dairy products", "processed meats", "sodium-rich foods", "sugary beverages", "saturated fats", "high-glycemic foods", "aspartame", "MSG", "glutamate", "casein", "nitrites", "food colorings", "highly processed gluten-free products"]
+  },
+  { "name" : "Malaria",
+  "i" : ["added sugar", "disaccharide", "sugar", "salt", "oil and fat", "cereal", "vegetable oil and fat", "dairy", "wheat", "flour", "milk", "acidity regulator", "condiment", "flavouring", "spice", "wheat flour", "cereal flour", "water", "milk solids", "vegetable oil", "emulsifier", "fruit", "monosaccharide", "palm oil and fat", "palm oil", "root vegetable", "seed", "refined wheat flour", "nut", "iodised salt"]
+  }
+]
